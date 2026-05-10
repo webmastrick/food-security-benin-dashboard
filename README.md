@@ -87,7 +87,7 @@ Webmaster & Junior Data Analyst — Cotonou, Benin 🇧🇯
 I help organizations across West Africa turn raw data into clear, actionable insights — combining web expertise with data visualization to support better decisions.
 
 - 🌍 Open to remote collaboration worldwide
-- 📧 Contact me via [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/gbeho-patrick-alloumon-60aa80325/)) 
+- 📧 Contact me via [LinkedIn](https://www.linkedin.com/in/gbeho-patrick-alloumon-60aa80325/) 
 - 💼 Available for freelance projects, NGO partnerships, and data consulting
 
 ---
