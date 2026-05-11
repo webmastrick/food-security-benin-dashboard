@@ -32,7 +32,7 @@ Food insecurity remains a critical challenge in West Africa. This project provid
 |---|---|
 | Average food insecurity rate | **~27%** |
 | Average malnutrition rate | **~16%** |
-| Total households surveyed | **~2.5 million** |
+| Total households surveyed | **~3 million** |
 | Most affected region | **North (Atacora, Alibori, Donga)** |
 | Trend | North remains stable at ~36% — urgent intervention needed |
 
@@ -81,8 +81,8 @@ Food insecurity remains a critical challenge in West Africa. This project provid
 
 ## 👤 About the Author
 
-**Patrick Alloumon Gbeho**
-Webmaster & Junior Data Analyst — Cotonou, Benin 🇧🇯
+**Patrick Gbeho Alloumon**
+Webmaster & Junior Data Analyst — Abomey-Calavi, Benin 🇧🇯
 
 I help organizations across West Africa turn raw data into clear, actionable insights — combining web expertise with data visualization to support better decisions.
 
